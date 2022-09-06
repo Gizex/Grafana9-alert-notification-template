@@ -1,4 +1,6 @@
 ﻿# Gizex-grafana9-alert-notification-template
+
+Шаблон восстановления нормального вида алертов для 9 версии grafana. 
 How to apply
 ![изображение](https://user-images.githubusercontent.com/49234898/188649006-5195eba3-d429-4ad0-9b26-49a1650515c3.png)
 And add "{{ template "tgshort" . }}" in the message field
