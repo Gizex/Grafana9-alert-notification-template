@@ -1,4 +1,4 @@
-﻿# Gizex-grafana9-alert-notification-template
+﻿# Grafana9-alert-notification-template
 
 Шаблон восстановления нормального вида алертов для 9 версии grafana. 
 
