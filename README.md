@@ -14,7 +14,7 @@ Before
 ![изображение](https://user-images.githubusercontent.com/49234898/188648399-31d61702-d3c0-4250-9245-9f2e364e0608.png)![изображение](https://user-images.githubusercontent.com/49234898/188647926-c47456ce-87da-4c5e-abe1-812931b243f2.png)
 
 
-Ater
+After
 
 ![изображение](https://user-images.githubusercontent.com/49234898/188648682-13696148-8fd0-40a1-ab27-80670e55cb70.png)![изображение](https://user-images.githubusercontent.com/49234898/188647774-9f66f3f5-5190-444d-af68-42a806d70921.png)
 
